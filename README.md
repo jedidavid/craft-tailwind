@@ -24,7 +24,7 @@ npm install
 ./craft setup
 ```
 
-4. Run development serve
+4. Run development server
 
 ```sh
 npm run dev
