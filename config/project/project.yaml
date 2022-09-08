@@ -1,0 +1,22 @@
+dateModified: 1662675432
+email:
+  fromEmail: jeremy@sunnybyte.com
+  fromName: 'Craft Tailwind'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    66f69ff9-b714-4b4d-9953-c7957892b0e2: Common
+    158f3445-d23d-41d4-9520-2545a6595d9f: 'Craft Tailwind'
+    41906e2b-bb65-4338-b7df-e9a075de7af5: 'Craft Tailwind'
+system:
+  edition: solo
+  live: true
+  name: 'Craft Tailwind'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
