@@ -8,7 +8,7 @@ mix
     files: [
       "templates/**/*.twig",
       "templates/**/*.html",
-      "web/**/.js",
-      "web/**/.css",
+      "web/**/*.js",
+      "web/**/*.css",
     ],
   });
