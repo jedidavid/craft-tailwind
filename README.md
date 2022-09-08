@@ -15,6 +15,7 @@ A Craft CMS boilerplate configured together with TailwindCSS
 
 ```sh
 cd project-folder
+composer install
 npm install
 ```
 
