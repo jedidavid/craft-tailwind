@@ -19,19 +19,25 @@ composer install
 npm install
 ```
 
-3. Run craft setup
+3. Copy .env.example.\* to .env
+
+```sh
+cp .env.example.dev .env
+```
+
+4. Run craft setup
 
 ```sh
 ./craft setup
 ```
 
-4. Run development server
+5. Run development server
 
 ```sh
 npm run dev
 ```
 
-5. For production release
+6. For production release
 
 ```sh
 npm run prod
